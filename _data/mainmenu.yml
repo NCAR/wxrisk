@@ -3,20 +3,20 @@
     url: /pages/about/index.html
     submenu: 
       - title: Vision
-      url: /pages/about/vision.html
+        url: /pages/about/vision.html
       - title: Project Schedule
-      url: /pages/about/schedule.html
+        url: /pages/about/schedule.html
   - title: How to get involved
     url: /pages/involvement/index.html
     submenu: 
       - title: Sign up for Project Updates
-      url: /pages/involvement/signup.html
+        url: /pages/involvement/signup.html
       - title: Join the Researcher Collective
-      url: /pages/involvement/collective.html
+        url: /pages/involvement/collective.html
       - title: Become a Commercial Partner
-      url: /pages/involvement/commercial_partnership.html
+        url: /pages/involvement/commercial_partnership.html
   - title: Related Resources
     url: /pages/related/index.html
     submenu: 
       - title: Tropical Cyclone Guidance Project
-      url: https://hurricanes.ral.ucar.edu
+        url: https://hurricanes.ral.ucar.edu
