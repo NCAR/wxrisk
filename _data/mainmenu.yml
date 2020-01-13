@@ -1,9 +1,8 @@
   menu:
-  - title: About
+  - title: About the Project
     submenu: 
     - title: Vision
     url: /pages/vision.html
-    submenu: 
     - title: Project Schedule
     url: /pages/schedule.html
   - title: How to get involved
@@ -12,7 +11,7 @@
     - title: Researcher Collective
     url: /pages/collective.html
   - title: Related Resources
-  - url: /pages/related.html
+    url: /pages/related.html
     submenu: 
     - title: Tropical Cyclone Guidance Project
     url: https://hurricanes.ral.ucar.edu
