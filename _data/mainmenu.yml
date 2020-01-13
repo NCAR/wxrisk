@@ -1,8 +1,12 @@
   menu:
   - title: Vision
     url: /pages/vision.html
+  - title: Project Schedule
+    url: /pages/schedule.html
   - title: Researcher Collective
     url: /pages/collective.html
+  - title: How to get involved
+    url: /pages/get_involved.html
   - title: Related Resources
   - url: /pages/related.html
     submenu: Tropical Cyclone Guidance Project
