@@ -6,9 +6,9 @@ title: Related Resources
 ## Related Resources
 
 ### The Tropical Cyclone Guidance Project
-[title](http://hurricanes.ral.ucar.edu)
+[Tropical Cyclone Guidance Project](http://hurricanes.ral.ucar.edu)
 
-### Forecasts of Hurricanes using Large-ensembles Outputs (FHLO)
+### Forecasts of Hurricanes using Large-ensembles Outputs 
 
-### ResilientResidence
+### Resilient Residence
 
