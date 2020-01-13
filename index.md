@@ -1,15 +1,14 @@
 ---
 layout: frontpage
-title: Home
-banner-title: Example Github site
-banner-description: This is a custom Jekyll theme based on UCAR/NCAR's custom 'koru' design. It is built on top of the Foundation framework. This provides users and developers with responsiveness and accessibility.
-banner-button-text: Download
-banner-button-url: https://github.com/NCAR/jekyll-koru-jekyll-template
+title: NCAR Weather Risk Applications
+banner-title: The HurricaneRiskCalculator
+banner-description: The goal of this project is to provide personalized and localized information on the risks posed by hurricane winds.
+banner-button-text: Watch a video about the project
+banner-button-url: https://hurricanes.ral.ucar.edu/riskcalculator/videos/HRC_5.mp4
 ---
 
-# Documentation
+# About the project
 
-NCAR/UCAR users interested in using this template with their Github pages website will need to first clone down this repository and copy over code either into their project's existing /docs directory or a new repository. You should then change the _config.yml, index.md, README.md and markdown pages within the /pages directory.
 
 | Syntax | Description |
 | ----------- | ----------- |
