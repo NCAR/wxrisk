@@ -5,14 +5,14 @@ title: About the Project
 
 ### [The Need](need.html)
 
-### Vision
+### [Vision](vision.html)
 
-### Our Science
+### [Our Science](science.html)
 
-### Our Team
+### [Our Tean](team.html)
 
-### Our Partners
+### [Our Partners](partners.html)
 
-### Project Schedule
+### [Project Schedule](schedule.html)
 
 This page is still under construction. The content for this page should be finalized by 27 January 2020.
