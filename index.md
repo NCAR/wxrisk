@@ -7,7 +7,7 @@ banner-button-text: Watch a video about the project
 banner-button-url: http://hurricanes.ral.ucar.edu/riskcalculator/videos/HRC_5.mp4
 ---
 
-![](images/risk_comparison.png)
+![Image of output from the Hurricane Risk Calculator simulated as being displayed on a mobile phone screen. This image shows a comparison of the risks of various options rangding from sheltering in place to evacuating to a local shelter to evacuating to a distant location. Because evacuation by car also poses risks, the best option for this scenario would be for the resident to evacuate to a local shelter.](<img src="/images/risk_comparison.png" alt="" style="display: block;margin: auto;">)
 
 # Site under construction
 Some parts of this web site are still under construction. Most content should be ready by 27 January 2020. 
