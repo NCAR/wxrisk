@@ -9,7 +9,7 @@ title: About the Project
 
 ### [Our Science](science.html)
 
-### [Our Tean](team.html)
+### [Our Team](team.html)
 
 ### [Our Partners](partners.html)
 
