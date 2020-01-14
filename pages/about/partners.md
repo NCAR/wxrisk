@@ -14,7 +14,7 @@ This project is funded through generous support of the following sponsors:
 
 ### Government Partners
 
-Many government agencies as well as state and local governments have a strong interest in improving public safety. The following government program is partnering with us by having a representative serve as a point of contact in our Researcher Collective. 
+Many government agencies as well as state and local governments have a strong interest in improving public safety. The following government agency is partnering with us by having one of their program directors serve as a point of contact in our Researcher Collective. 
 
 - National Institute of Technology - National Windstorm Impact Reduction Program (NIST/NWIRP)
 
@@ -23,7 +23,7 @@ Many government agencies as well as state and local governments have a strong in
 A large number of universities are represented by their experts who are participating in the project's Researcher Collective. Here are some of our university partners.
 
 | James Cook University - Cyclone Testing Station (Australia) | |
-| University of Florida | ![](logos/Herbert-Wertheim-COE_screen_capture_of_tiff_file_cropped.PNG) |
+| University of Florida | ![](../logos/Herbert-Wertheim-COE_screen_capture_of_tiff_file_cropped.PNG) |
 | Stanford University | |
 | Auburn University | |
 | Massachussetts Institute of Technology | |
