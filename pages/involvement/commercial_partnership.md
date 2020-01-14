@@ -9,4 +9,4 @@ We are developing a cloud-based data and content delivery infrastructure to deli
 
 We invite companies to partner with us as we refine, optimize, and customize the Hurricane Risk Calculator for a variety of applications ranging from public safety to insurance.  
 
-If your company is interested in partnership with us, please us send an e-mail: riskcalculator@ucar.edu. 
+If your company is interested in partnership with us, please us send an e-mail: [riskcalculator@ucar.edu](mailto:riskcalculator@ucar.edu&subject=sign-up%20for%20project%20updates). 
