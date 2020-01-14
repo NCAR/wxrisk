@@ -7,7 +7,7 @@ banner-button-text: Watch a video about the project
 banner-button-url: http://hurricanes.ral.ucar.edu/riskcalculator/videos/HRC_5.mp4
 ---
 
-[](images/risk_comparison.png)
+![](images/risk_comparison.png)
 
 # Site under construction
 Some parts of this web site are still under construction. Most content should be ready by 27 January 2020. 
