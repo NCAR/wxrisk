@@ -2,8 +2,16 @@
   - title: About the Project
     url: /pages/about/index.html
     submenu: 
+      - title: The Need
+        url: /pages/about/need.html
       - title: Vision
         url: /pages/about/vision.html
+      - title: Our Science
+        url: /pages/about/science.html
+      - title: Our team
+        url: /pages/about/team.html
+      - title: Our partners
+        url: /pages/about/partners.html
       - title: Project Schedule
         url: /pages/about/schedule.html
   - title: How to get involved
