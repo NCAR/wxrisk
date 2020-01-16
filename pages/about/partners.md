@@ -25,7 +25,7 @@ A large number of universities are represented by their experts who are particip
 | James Cook University - Cyclone Testing Station (Australia) | |
 | University of Florida | ![](logos/Herbert-Wertheim-COE_screen_capture_of_tiff_file_cropped.PNG) | 
 | Stanford University | |
-| Auburn University | ![](AUwordmark.jpg) | 
+| Auburn University | <img src="logos/AUwordmark.jpg" alt="" style="display: block; margin: auto;"> | 
 | Massachussetts Institute of Technology | |
 | Colorado State University | |
 | University of South Florida | |
