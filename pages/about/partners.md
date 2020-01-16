@@ -23,7 +23,7 @@ Many government agencies as well as state and local governments have a strong in
 A large number of universities are represented by their experts who are participating in the project's Researcher Collective. Here are some of our university partners.
 
 | James Cook University - Cyclone Testing Station (Australia) | |
-| University of Florida | ![](../logos/Herbert-Wertheim-COE_screen_capture_of_tiff_file_cropped.PNG) |
+| University of Florida | ![](logos/Herbert-Wertheim-COE_screen_capture_of_tiff_file_cropped.PNG) |
 | Stanford University | |
 | Auburn University | |
 | Massachussetts Institute of Technology | |
