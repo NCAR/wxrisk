@@ -9,7 +9,7 @@ We are developing a cloud-based data and content delivery infrastructure to deli
 
 A key aspect of the framework is to offer alerting capabilities so that app users can be notified when their risk level has increased, or when specific protective actions are recommended (e.g., put up storm shutters). 
 
-![](images/risk_alert.png)
+<img src="../../images/risk_alert.png" alt="Concept of a mobile alert from the HurricaneRiskCalculator(TM). This example alert provides a homeowner with a message that damaging winds are expected with the recommendation to put up his/her storm shutters by a specific time. The example insurance company (ACME Insurance) is offering a $50 premium discount on the customer's next renewal if they use the app to document that the protective action has been taken." style="display: block; margin: auto;">
 
 We invite companies to partner with us as we refine, optimize, and customize the HurricaneRiskCalculator(TM) for a variety of mobile phone and web apps such as general-interest weather apps, apps for public safety, apps for emergency managers, and consumer-facing insurance apps.  
 
