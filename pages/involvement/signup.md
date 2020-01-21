@@ -9,6 +9,10 @@ We will send periodic updates about the project to all who are interested. The f
 
 We will soon have a snazzy sign-up form to allow you to join the distribution list. For now, if you'd like to sign up to receive these e-mails, please send an e-mail to [riskcalculator@ucar.edu](mailto:riskcalculator@ucar.edu&subject=sign-up%20for%20project%20updates). 
 
+##
+[Sign-up here](https://groups.google.com/a/ucar.edu/forum/#!forum/riskcalculator-updates/join)
+
+
 <iframe id="forum_embed"
   src="javascript:void(0)"
   scrolling="no"
