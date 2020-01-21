@@ -21,10 +21,10 @@ title: Our Team
 
 #### Paul Kucera
 
-#### Alan Bol
-
 
 ### Project Collaborators and Advisors
+
+#### Alan Bol
 
 #### Gabrielle Wong-Parodi
 
