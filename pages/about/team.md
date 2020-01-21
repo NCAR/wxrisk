@@ -26,36 +26,51 @@ title: Our Team
 
 ### Project Collaborators and Advisors
 
+#### Gabrielle Wong-Parodi
+
+#### Jonathan Lin
+
+#### Alexis Merdjanoff
+
 #### David Prevatt
+
+#### Bruce Ellingwood
 
 #### David Roueche
 
+#### Jennifer Collins
+
 #### James Done
+
+#### Kerry Emanuel
 
 #### Christopher Rozoff
 
 #### Eric Hendricks
 
-Tsvetomir Ross-Lazarov
-Jonathan Lin
-Gabrielle Wong-Parodi
-Alexis Merdjanoff
-Jane Rovins
-Bruce Ellingwood
-Josh Alland
-Jennifer Collins
-Susan Joslyn
-Cao Wang
-Thomas Kloetzke
-Barb Brown
-Kerry Emanuel
-Scott Weaver
-Y. Peter Sheng
-Pallab Mozumder
-Craig Arthur
-Ming Ge 
+#### Tsvetomir Ross-Lazarov
 
-###
+#### Jane Rovins
+
+#### Josh Alland
+
+#### Susan Joslyn
+
+#### Cao Wang
+
+#### Thomas Kloetzke
+
+#### Barbara Brown
+
+#### Scott Weaver
+
+#### Y. Peter Sheng
+
+#### Pallab Mozumder
+
+#### Craig Arthur
+
+#### Ming Ge 
 
 
 This page is still under construction. The content for this page should be finalized by 27 January 2020.
