@@ -9,7 +9,7 @@ title: Our Team
 
 ### Jonathan Vigh
 
-<img src="../../images/people/Jonathan_Vigh_head_shot_foothills_2019.PNG" alt="Head shot of Jonathan Vigh with backdrop of the Flatirons" style="display: block; margin: auto; max-height: 200px;">
+<img src="../../images/people/Jonathan_Vigh_head_shot_foothills_2019.PNG" alt="Head shot of Jonathan Vigh with backdrop of the Flatirons" style="display: block; margin: auto; max-height: 300px;">
 
 ## Project Co-Principal Investigators
 
