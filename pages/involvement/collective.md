@@ -22,7 +22,7 @@ In addition, we are in the processing of forming at least five additional teams:
 - Emergency Management Team
 - Transportation Engineering Team.
 
-<img src="../../images/researcher_collective_v3_20200123.png" alt="Graphic showing the organization of the HurricaneRiskCalculator(TM) Researcher Collective and the names of the 28 researchers currently involved in the Collective." style="display: block; margin: auto;">
+<img src="../../images/researcher_collective_slide_v3_20200123.PNG" alt="Graphic showing the organization of the HurricaneRiskCalculator(TM) Researcher Collective and the names of the 28 researchers currently involved in the Collective." style="display: block; margin: auto;">
 
 We invite interested researchers to join the Researcher Collective as we further develop the science behind the HurricaneRiskCalculator(TM). Researchers in the Collective have access to collaboration tools, such as a project-wide Google Group (for e-mails) and a Shared Google Drive. The various teams have meetings as needed and in the future will collaborate on publications and funding proposals to advance their shared goals with the project. 
 
