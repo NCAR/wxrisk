@@ -13,4 +13,4 @@ A key aspect of the framework is to offer alerting capabilities so that app user
 
 We invite companies to partner with us as we refine, optimize, and customize the HurricaneRiskCalculator(TM) for a variety of mobile phone and web apps such as general-interest weather apps, apps for public safety, apps for emergency managers, and consumer-facing insurance apps.  
 
-If your company is interested in partnering with us, please us send an e-mail: [riskcalculator@ucar.edu](mailto:riskcalculator@ucar.edu&subject=commercial%20partnership). 
+If your company is interested in partnering with us, please send us an e-mail: [riskcalculator@ucar.edu](mailto:riskcalculator@ucar.edu&subject=commercial%20partnership). 
