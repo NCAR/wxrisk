@@ -26,6 +26,8 @@ title: Our Team
 
 #### Alan Bol
 
+### Geeta Nain
+
 #### Gabrielle Wong-Parodi
 
 #### Jonathan Lin
@@ -68,9 +70,15 @@ title: Our Team
 
 #### Pallab Mozumder
 
+#### Stephanie Pilkington
+
+#### Elisabeth Holland
+
+#### Christopher Kuhlman
+
 #### Craig Arthur
 
 #### Ming Ge 
 
 
-This page is still under construction. The content for this page should be finalized by 12 April 2020.
+This page is still under construction. The content for this page should be finalized by 30 June 2020.
