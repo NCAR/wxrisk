@@ -15,4 +15,4 @@ title: About the Project
 
 ### [Project Schedule](schedule.html)
 
-This page is still under construction. The content for this page should be finalized by 12 April 2020.
+This page is still under construction. The content for this page should be finalized by 15 July 2020.
