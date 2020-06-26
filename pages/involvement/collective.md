@@ -24,9 +24,9 @@ In addition, we are in the processing of forming at least six additional teams:
 - Transportation Engineering Team
 - Disease Modeling Team.
 
-<img src="../../images/researcher_collective_slide_v3_20200123.PNG" alt="Graphic showing the organization of the HurricaneRiskCalculator(TM) Researcher Collective and the names of the 32 researchers currently involved in the Collective." style="display: block; margin: auto;">
+<img src="../../images/researcher_collective_slide_v4_20200614.PNG" alt="Graphic showing the organization of the Hurricane Risk Calculator Researcher Collective and the names of the 32 researchers currently involved in the Collective." style="display: block; margin: auto;">
 
-We invite interested researchers to join the Researcher Collective as we further develop the science behind the HurricaneRiskCalculator(TM). Researchers in the Collective have access to collaboration tools, such as a project-wide Google Group (for e-mails) and a Shared Google Drive. The various teams have meetings as needed and in the future will collaborate on publications and funding proposals to advance their shared goals with the project. 
+We invite interested researchers to join the Researcher Collective as we further develop the science behind the HurricaneRiskCalculator. Researchers in the Collective have access to collaboration tools, such as a project-wide Google Group (for e-mails) and a Shared Google Drive. The various teams have meetings as needed and in the future will collaborate on publications and funding proposals to advance their shared goals with the project. 
 
 If you are a researcher or student interested in joining the Researcher Collective, please send us an e-mail: [riskcalculator@ucar.edu](mailto:riskcalculator@ucar.edu&subject=researcher%20collective). 
 
