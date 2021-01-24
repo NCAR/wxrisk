@@ -9,6 +9,8 @@ title: Related Resources
 [Tropical Cyclone Guidance Project](http://hurricanes.ral.ucar.edu)
 
 ### Forecasts of Hurricanes using Large-ensemble Outputs (FHLO)
+[FHLO Model Outputs](https://tcs.mit.edu/)
 
-### Resilient Residence
+### Resilient Residence (ResRe) ###
+[ResRe Web Site](https://www.resilientresidence.com/)
 
