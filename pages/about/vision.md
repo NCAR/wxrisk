@@ -3,6 +3,11 @@ layout: default
 title: Vision
 ---
 
-## Vision
+## Vision ##
 
-This page is still under construction. The content for this page should be finalized by 12 April 2020.
+Providing localized and personalized risk information to save lives and reduce property damage to all people affected by hurricanes and tropical cyclones.
+
+## How to achieve this vision ##
+
+The weather enterprise 
+
