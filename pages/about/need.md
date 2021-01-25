@@ -15,6 +15,6 @@ What they really need to know are answers to questions like:
 - How long will the power be out?
 - When should I put up my storm shutters?
 
-While the weather forecast enterprise has dramatically increased its capabilities to provide accurate forecasts of weather hazards at greater lead times and finer scales, a growing body of research demonstrates that people have a difficult time understanding what the impacts of those hazards will be. Even worse, people find it difficult to impossible to conceive of what the impact means for their unique situation. Very few people have the technical background to assess their vulnerability and interpret probabilistic forecasts of hazards to calculate the risks of specific consequences. The HurricaneRiskCalculator&reg; webapp is being created to fill these gaps. 
+While the weather forecast enterprise has dramatically increased its capabilities to provide accurate forecasts of weather hazards at greater lead times and finer scales, a growing body of research demonstrates that people have a difficult time understanding what the impacts of those hazards will be. Even worse, people find it difficult to impossible to conceive of what the impact means for their unique situation. Very few people have the technical background to assess their vulnerability and interpret probabilistic forecasts of hazards to calculate the risks of specific consequences. The HurricaneRiskCalculator&reg; web app is being created to fill these gaps. 
 
 [Next: A hurricane scenario](scenario.html)
