@@ -7,8 +7,17 @@ title: Project Updates
 
 ### 16 September 2020 ###
 
-We have added the capability to retrieve pointwise wind output into the web app. To our knowledge, this is the first of its kind capability for any web site. The first retrieval, shown below, was
-for Pensacola Naval Air Station, which was in the process of being impacted by Hurricane Sally.
+We have added the capability to retrieve pointwise wind output into the web app. The first retrieval, shown below, was made for Pensacola Naval Air Station, which was in the process of being impacted by Hurricane Sally. The upper panel of the plot shows the probability density function (PDF) in time -- essentially, the likelihood that maximum sustained winds (1-min average) would exceed various wind speed thresholds at each time in the 5-day forecast. The bottom panel shows the cumulative density function (CDF) -- the total likelihood that sustained winds at the site would exceed given thresholds. 
+
+FHLO predicted a ~5% chance that this location would experience sustained winds of hurricane-force (74 mph). It turned out that the Pensacola Naval Air Station did in fact record sustained winds of 74 mph and a gust to 92 mph. 
+
+To our knowledge, this is the first-of-its kind capability for any web site.
+
+<img src="../../images/updates/FHLO_Pensacola.PNG" alt="Wind hazard output from the FHLO model for Pensacola, FL for 16 September 2020" style="display: block; margin: auto; max-height: 600px;">
+
+<img src="../../images/updates/pensacola_NAS.PNG" alt="Observed winds from Pensacola Naval Air Station from 16 September 2020" style="display: block; margin: auto; max-height: 600px;">
+
+
 
 
 ### 08 January 2021 ###
