@@ -81,4 +81,3 @@ title: Our Team
 #### Ming Ge 
 
 
-This page is still under construction. The content for this page should be finalized by 30 June 2020.
