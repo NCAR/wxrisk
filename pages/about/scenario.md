@@ -117,7 +117,11 @@ All in all, the storm ends up being much less of an impact than you have feared.
 
 ## Discusion ##
 
-A scenario like the above is quite typical for the majority of people who may initially be in the crosshairs at some point during the approach of a hurricane. Nearly always, people have to deal with uncertainty. This uncertainty arises from the contantly changing forecast situation but also depends on how resilient a house will be to storm impacts., which includes unknowns about the forecast, unknowns about how their house will hold up, and unknowns about wha, and changing forecasts. 
+A scenario like the above is quite typical for the majority of people who may initially be in the crosshairs at some point during the approach of a hurricane. Often, only a small portion of the population experience the strongest impacts of the hurricane. Most will get the fringes of the storm or may be missed entirely.
+
+People always have to deal with uncertainty during the event. This uncertainty arises from the contantly changing forecast situation, but also depends on how resilient a person's home will be to storm impacts, how the power grid will be affected, and whether work will close or mandatory evacuation orders will be issued. While the available forecast products do a good job at conveying the track and possible intensity of the storm, it is often difficult for people to find accurate information about how high the winds will be at their specific location. People often seek information from a variety of sources including social media, but the accuracy or relevance of this information can be questionable (such as plots of raw model output). 
+
+[Next: Our Science](science.html)
 
 
 
