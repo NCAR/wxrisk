@@ -19,15 +19,15 @@ To bring in the relevant expertise needed for a transdisciplinary project like t
 
 ### Journal articles about this project ###
 
-- Lin, J., K. Emanuel, and J. L. Vigh, 2020: "Forecasts of Hurricanes Using Large-Ensemble Outputs". Weather and Forecasting, 35 (5), 1713-1731, [https://doi.org/10.1175/WAF-D-19-0255.1](https://doi.org/10.1175/WAF-D-19-0255.1).
+* Lin, J., K. Emanuel, and J. L. Vigh, 2020: "Forecasts of Hurricanes Using Large-Ensemble Outputs". Weather and Forecasting, 35 (5), 1713-1731, [https://doi.org/10.1175/WAF-D-19-0255.1](https://doi.org/10.1175/WAF-D-19-0255.1).
 
 
 ### Conference and workshop abstracts about this project ###
 
-- Vigh, J.L., D.J. Smith, B.R. Ellingwood, J. Lin, D.O. Prevatt, D. Roueche, B.G. Brown, D.T. Hahn, J.M. Collins, J.M. Done, G. Wong-Parodi, P.A. Kucera, C. Wang, J.J. Alland, T. Kloetzke, C.M. Rozoff, E.A. Hendricks, A.A. Merdjanoff, C. Arthur, M. Ge, Y. Peter Sheng, K. Emanuel, S.J. Weaver, J. Rovins, P. Mozumder, S. Joslyn, A. Bol, and T. Ross-Lazarov, 2020: The Hurricane Risk Calculator: Working toward Enhancing Our Nation's Readiness, Responsiveness, and Resilience to Hurricanes through Probabilistic Risk Frameworks for Evacuation Decision Support. Extended Abstract, Eighth Symposium on Building a Weather-Ready Nation: Enhancing Our Nation's Readiness, Responsiveness, and Resilience to High Impact Weather Events, Session 5 Hurricane Studies and Other Tropical Programmatic Achievements, Boston, MA, Amer. Meteor. Soc., Paper 5.5. 
- - [Extended Abstract, pdf](https://ral.ucar.edu/staff/jvigh/documents/vighEA2020_extended_abstract.pdf)
- - [Recorded presentation given 15 January 2020](https://ams.confex.com/ams/2020Annual/recordingredirect.cgi/oid/Recording516716/paper370408_1.mp4) 
- - [Presentation slides, pdf](https://ral.ucar.edu/staff/jvigh/documents/20200115_vigh_AMS100_hurricane_risk_calculator_presentation.pdf)
+* Vigh, J.L., D.J. Smith, B.R. Ellingwood, J. Lin, D.O. Prevatt, D. Roueche, B.G. Brown, D.T. Hahn, J.M. Collins, J.M. Done, G. Wong-Parodi, P.A. Kucera, C. Wang, J.J. Alland, T. Kloetzke, C.M. Rozoff, E.A. Hendricks, A.A. Merdjanoff, C. Arthur, M. Ge, Y. Peter Sheng, K. Emanuel, S.J. Weaver, J. Rovins, P. Mozumder, S. Joslyn, A. Bol, and T. Ross-Lazarov, 2020: The Hurricane Risk Calculator: Working toward Enhancing Our Nation's Readiness, Responsiveness, and Resilience to Hurricanes through Probabilistic Risk Frameworks for Evacuation Decision Support. Extended Abstract, Eighth Symposium on Building a Weather-Ready Nation: Enhancing Our Nation's Readiness, Responsiveness, and Resilience to High Impact Weather Events, Session 5 Hurricane Studies and Other Tropical Programmatic Achievements, Boston, MA, Amer. Meteor. Soc., Paper 5.5. 
+  * [Extended Abstract, pdf](https://ral.ucar.edu/staff/jvigh/documents/vighEA2020_extended_abstract.pdf)
+  * [Recorded presentation given 15 January 2020](https://ams.confex.com/ams/2020Annual/recordingredirect.cgi/oid/Recording516716/paper370408_1.mp4) 
+  * [Presentation slides, pdf](https://ral.ucar.edu/staff/jvigh/documents/20200115_vigh_AMS100_hurricane_risk_calculator_presentation.pdf)
 
 [Next: Our Team](team.html)
 
