@@ -61,7 +61,7 @@ You scramble to think of other evacuation options. You see that you can get a ho
 
 ### Saturday ###
 
-You wake up early and immediately pull out your phone and look at the NHC webpage. You see the following:
+The next morning you immediately pull out your phone and look at the NHC webpage. You see the following:
 
 <img src="../../images/scenario_1/dorian_20190831_Saturday_08AM.PNG" alt="Cone of uncertainty graphic for a storm now predicted to recurve out to sea, but still come close to your area" style="display: block; margin: auto; max-height: 600px;">
 
@@ -75,37 +75,52 @@ After a good night's sleep, you wake up and check the NHC web page. You see the 
 
 <img src="../../images/scenario_1/dorian_20190901_Sunday_08AM.PNG" alt="Cone of uncertainty graphic for a storm now predicted to recurve out to sea, missing your area" style="display: block; margin: auto; max-height: 600px;">
 
-You see the headline: "STRONGEST HURRICANE IN MODERN RECORDS FOR THE NORTHWESTERN BAHAMAS. ...CATASTROPHIC CONDITIONS OCCURING IN THE ABACOS ISLANDS...". 
-
-Maximum sustained winds of 180 mph are pounding the Bahamas and the storm has slowed to a crawl. You cancel your hotel reservations and then spend the rest of the day glued to the TV as harrowing reports come in from the Bahamas, just a couple hundred miles away.
+The forecast track is well offshore. You see the headline: "STRONGEST HURRICANE IN MODERN RECORDS FOR THE NORTHWESTERN BAHAMAS. ...CATASTROPHIC CONDITIONS OCCURING IN THE ABACOS ISLANDS...". Maximum sustained winds are an astonishing 180 mph. The hurricane has slowed to a crawl as it chews up the northern Bahamas. You decide to cancel your hotel reservations and then spend the rest of the day glued to the TV as harrowing reports come in from just a couple hundred miles away. By late afternoon, the skies have turned dark and there's a fresh wind blowing in from the Atlantic. You take the dogs down to the beach and see some enormous swells coming in.
 
 ### Monday ###
 
-The storm has stalled over the Bahamas. You warily eye the forecast showing the storm passing less than 100 miles offshore. 
-
 <img src="../../images/scenario_1/dorian_20190902_Monday_08AM.PNG" alt="Cone of uncertainty graphic for a storm now predicted to recurve out to sea, missing your area" style="display: block; margin: auto; max-height: 600px;">
 
+The storm is still stalled over the Bahamas. NHC has issued a tropical storm warning for your area. You warily eye the forecast showing the storm track nudging closer back toward Melbourne. You decide not to take your baby to daycare and you let your boss know you'll be working from home. At lunch-time, you go out into the yard and take the lawn furniture into the garage. It rains off and on during the afternoon and by evening, the wind is starting to pick up.  
 
 ### Tuesday ###
 
-The storm finally starts slowly moving northward from the Bahamas. 
+The next morning, you check NHC and see the following:
 
 <img src="../../images/scenario_1/dorian_20190903_Tuesday_08AM.PNG" alt="Cone of uncertainty graphic for a storm now predicted to recurve out to sea, missing your area" style="display: block; margin: auto; max-height: 600px;">
 
+The storm has finally started to slowly move northward from the Bahamas. The track is now about 60 miles offshore from Melbourne and NHC has issued a hurricane warning for your area. You turn on the TV and see that local officials have issued a voluntary evacuation order for your area. Now you are pretty worried and wonder if you should have kept those hotel reservations. You check the National Weather Service site and see that wind gusts of up to 90 mph are possible. You are thankful that you ended up having your shutters put on, but you are a litle worried about your roof. Your house was built in 1975 and the roof hasn't been replaced for at least 20 years. You and your partner decide that you'll stay, but are ready to leave a moment's notice. You pack a suitcase with a few days worth of clothes, essential baby items, and your important documents.
+
+That night, you can hear the rain hitting the shutters.
 
 ### Wednesday ###
 
+After a not-so-great night of sleep, you check NHC and see the following:
+
 <img src="../../images/scenario_1/dorian_20190904_Wednesday_08AM.PNG" alt="Cone of uncertainty graphic for a storm now predicted to recurve out to sea, missing your area" style="display: block; margin: auto; max-height: 600px;">
 
+The storm has stayed offshore, but is not predicted to come much closer to your mom's place in Hilton Head. You give her a call and find out that they are recommending evacuation for her area. The local NWS gridpoint forecast shows wind gusts of 74 mph expected. She jokes about coming down to your place, but decides to go to a friends house in Columbia, about 150 miles inland. You are relieved to hear this.
+
+Work and daycare is closed today, so you spend some quality time with your baby, peaking out the door from time to time. 
+
+During the day, the wind kicks up as rain bands move in, some with drenching rain. But the highest winds are only about 45 to 50 mph. Your roof creaks once or twice in the strongest gusts, but your house is just fine. Cape Canaveral gets wind gusts close to 70 mph. In late afternoon, your power flickers a few times and then goes out. Because of your storm shutters, it is very dark in the house. You and your family eat some sandwiches and canned food by flashlight. The power finally comes back on later that night, which is a relief. 
 
 ### Thursday ###
 
+The next morning, you check NHC and see this:
+
 <img src="../../images/scenario_1/dorian_20190905_Thursday_08AM.PNG" alt="Cone of uncertainty graphic for a storm now predicted to recurve out to sea, missing your area" style="display: block; margin: auto; max-height: 600px;">
 
+The storm is well on its way toward South Carolina. The wind is starting to die down and the air seems really clean. You call the company and schedule the storm shutters to be removed the next day. 
+
+All in all, the storm ends up being much less of an impact than you have feared. You are grateful that it looks like your family has escaped this monster of a storm, but you feel bad for the people in the Bahamas. Your family is only out $500 for the storm shutter install and removal, but you did't have to evacuate and you only missed one day of work. 
+
+## Discusion ##
+
+A scenario like the above is quite typical for the majority of people who may initially be in the crosshairs at some point during the approach of a hurricane. Nearly always, people have to deal with uncertainty. This uncertainty arises from the contantly changing forecast situation but also depends on how resilient a house will be to storm impacts., which includes unknowns about the forecast, unknowns about how their house will hold up, and unknowns about wha, and changing forecasts. 
 
 
 
-You feel grateful that it looks like you and your family will escape this monster of a storm, but you feel bad for the people in the Bahamas.  
 
 
 
