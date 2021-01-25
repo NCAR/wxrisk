@@ -14,9 +14,13 @@ This project is funded through generous support of the following sponsors:
 
 ### Government Partners
 
-Many government agencies as well as state and local governments have a strong interest in improving public safety. The following government agency is partnering with us by having one of their program directors serve as a point of contact in our Researcher Collective. 
+Many government agencies as well as state and local governments have a strong interest in improving public safety. The following government agencies are partnering with us by having one of their staff or program directors serve as a point of contact either in our Researcher Collective or in our planned Advisory Board. 
 
-- National Institute of Technology - National Windstorm Impact Reduction Program (NIST/NWIRP)
+- National Institute of Technology - National Windstorm Impact Reduction Program 
+- National Hurricane Center 
+- National Weather Service - Southern Regional Headquarters
+- National Weather Service - Tampa Bay Region
+- Federal Emergency Management Agency - National Hurricane Program
 
 ### University Partners
 
