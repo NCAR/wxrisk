@@ -78,6 +78,8 @@ title: Our Team
 
 #### Craig Arthur
 
+[Next: Our Partners](partners.html)
+
 #### Ming Ge 
 
 
