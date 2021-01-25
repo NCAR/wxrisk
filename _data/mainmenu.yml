@@ -4,19 +4,19 @@
     submenu: 
       - title: The Need
         url: /pages/about/need.html
-      - title: Scenarios
-        url: /pages/about/scenarios.html
+      - title: A Hurricane Scenario
+        url: /pages/about/scenario.html
       - title: Vision
         url: /pages/about/vision.html
       - title: Our Science
         url: /pages/about/science.html
-      - title: Our team
+      - title: Our Team
         url: /pages/about/team.html
-      - title: Our partners
+      - title: Our Partners
         url: /pages/about/partners.html
       - title: Project Schedule
         url: /pages/about/schedule.html
-  - title: How to get involved
+  - title: How to Get Involved
     url: /pages/involvement/index.html
     submenu: 
       - title: Sign up for Project Updates
