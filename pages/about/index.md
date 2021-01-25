@@ -7,8 +7,6 @@ title: About the Project
 
 ### [Scenarios](scenarios.html)
 
-### [Vision](vision.html)
-
 ### [Our Science](science.html)
 
 ### [Our Team](team.html)
@@ -16,4 +14,6 @@ title: About the Project
 ### [Our Partners](partners.html)
 
 ### [Project Schedule](schedule.html)
+
+### [Development Updates](development.html)
 
