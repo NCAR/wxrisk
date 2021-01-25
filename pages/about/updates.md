@@ -17,12 +17,12 @@ To our knowledge, this is the first-of-its kind capability for any web site.
 
 <img src="../../images/updates/pensacola_NAS.PNG" alt="Observed winds from Pensacola Naval Air Station from 16 September 2020" style="display: block; margin: auto; max-height: 600px;">
 
-
-
-
 ### 08 January 2021 ###
 
 We have added multiple address capability into the web app. 
+
+<img src="../../images/updates/multiple_address_capability.PNG" alt="Graphic showing multiple addresses on the storm information page of the web app" style="display: block; margin: auto; max-height: 600px;">
+
 Previously, the app could only store one address at a time and the ResRe cyclone resilience score was tied directly to the user's id. 
 Now, the app will let a user define up to 10 separate addresses and fill out a ResRe vulnerable profile for each location. 
 The ResRe resilience score is now tied to the property id itself. 
