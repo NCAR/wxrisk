@@ -3,42 +3,48 @@ layout: default
 title: A Hurricane Scenario
 ---
 
-## Introduction ##
+## A Hurricane Scenario ##
 
 The following scenario is provided as a thought exercise about what type of information people need to make critical decisions during a hurricane landfall event. 
-This scenario is one that many coastal residents are all-too familiar with. 
+This scenario is one that many coastal residents are quite familiar with. 
 
 ### Your situation ###
 
-Imagine you live in a house in Melbourne Beach, Florida, a community on a barrier island about halfway up the east coast of the state between Miami and Jacksonville. 
-You are married and have a 1-year old baby and two dogs. You live in a typical one story wood frame house about a quarter mile inland from the beach.
+Imagine you live in a house in Melbourne Beach, a Florida community located on a barrier island about halfway up the east coast between Miami and Jacksonville. 
+You are married and have a 1-year old baby and two dogs. You live in a typical one-story wood frame house about a quarter mile inland from the beach.
 You have two cars and an emergency fund with $2000 in it, but your family is somewhat strapped for cash at the moment. 
 
 ### Tuesday ###
 
-A tropical storm has formed and is forecast to approach your area in 5 days. You feel some concern and go to the National Hurricane Center (NHC) web page and see this:
+You turn on the news while eating breakfast and learn that a tropical storm is hitting the Leeward Islands and is forecast to approach your area in 5 days. You feel some concern and go to the National Hurricane Center (NHC) web page and see this:
 
 <img src="../../images/scenario_1/dorian_20190827_Tuesday_05AM.PNG" alt="Cone of uncertainty graphic for a storm predicted to be five days out from landfall in your area" style="display: block; margin: auto; max-height: 600px;">
 
+You aren't too concerned, but you mention it you partner that evening. 
+
 ### Wednesday ###
 
-The next day, the NHC graphic shows a similar track toward your area, but now the storm is forecast to be a hurricane by landfall about four days from now. 
+The next morning, the NHC graphic shows a similar track toward your area, but now the storm is forecast to be a hurricane offshore from your area about four days from now. Now you are starting to feel concerned and you keep a close eye on the local news site as you do some work. 
 
 <img src="../../images/scenario_1/dorian_20190828_Wednesday_05AM.PNG" alt="Cone of uncertainty graphic for a storm predicted to be four days out from landfall in your area" style="display: block; margin: auto; max-height: 600px;">
 
-Some of the hurricane forecast models show that the storm could be a major hurricane. The media coverage is already extensive and there are reports about people flocking to stores to buy plywood, batteries, and bottled water. You swing by the grocery store on the way home to get a few items to refresh your hurricane preparation kit, as well as some diapers and baby wipes. The bottled water is already sold out, but you're able to get some batteries and canned food. At supper that night, you start discussing with your family what your plan will be if the storm stays on track. Your partner is the adventurous type and wants to stay and ride it out, but you are not so sure. You are more risk-averse.   
+The media coverage is already extensive and there are reports about people flocking to stores to buy plywood, batteries, and bottled water. You swing by the grocery store on the way home to get a few items to refresh your hurricane preparation kit, as well as some diapers and baby wipes. The bottled water is already sold out, but you're able to get some batteries and canned food. You check the NHC web site again in the evening and now you see this:
+
+<img src="../../images/scenario_1/dorian_20190828_Wednesday_05PM.PNG" alt="Cone of uncertainty graphic for a storm predicted to be four days out from landfall in your area" style="display: block; margin: auto; max-height: 600px;">
+
+The threat now looks much more dire for you area, with a Major Hurricane predicted to make landfall in about 4 days. At supper, you start discussing with your family what your plan will be if the storm stays on track. Your partner is the adventurous type and wants to stay and ride it out, but you are more risk-averse and would not want to stay in your home during a major hurricane. You are too close to the water and could face a deadly storm surge. Besides, you are sure that the local authorities would put you under a mandatory evacuation order if the storm stays on track.    
 
 ### Thursday ###
 
-The next morning, you wake up early to the sound of hammering and a circular saw. A neighbor down the street is putting up ploywood shudders. You check the NHC web page, and the foecast graphic shows the dreaded 'M' right off the coast from Melbourne -- a Major Hurricane, with the track plowing straight into central Florida. 
+The next morning, you wake up early to the sound of hammering and a circular saw. A neighbor down the street is cutting ploywood for shutters over his windows. You check the NHC web page, and the foecast graphic shows the dreaded 'M' right off the coast from Melbourne -- a Major Hurricane, with the track plowing straight into central Florida. 
 
 <img src="../../images/scenario_1/dorian_20190829_Thursday_05AM.PNG" alt="Cone of uncertainty graphic for a storm predicted to be three days out from landfall in your area" style="display: block; margin: auto; max-height: 600px;">
 
-This is starting to feel like it could be "The Big One". You check your Twitter feed and see some weather enthusiasts posting scary screenshots of numerical model output of 145 mph winds over your area. You call your mom in Hilton Head, SC to see if it might be possible to stay with her if you and your family need to evacuate. She says "Sure, come on up!", but you know your partner will need some convincing. You have the type of storm shutters that require professional installation which would cost $500. You agonize over whether you should call to schedule the installers to come, wondering when it might be too late. That night, you and your partner have a heated discussion over what your family should do. The discussion ends in a draw -- no decision.
+This is starting to feel like it could be "The Big One". You check your Twitter feed and see some weather enthusiasts posting scary screenshots of numerical model output of 145 mph winds over your area. You call your mom in Hilton Head, SC to see if it might be possible to stay with her if you and your family need to evacuate. She says "Sure, come on up!", but you know your partner will need some convincing. You have the type of storm shutters that require professional installation which would cost $500. You agonize over whether you should call to schedule the installers, wondering when it might be too late. That night, you and your partner have a heated discussion over whether or not your family should evacuate. The discussion ends in a draw -- no decision.
 
 ### Friday ###
 
-You wake up the next morning and immediately check the NHC web page. Now you see this:
+You wake up the next morning and immediately check the NHC web page, now becoming a habit. Now you see this:
 
 <img src="../../images/scenario_1/dorian_20190830_Friday_08AM.PNG" alt="Cone of uncertainty graphic for a storm still predicted to be four days out from landfall in your area" style="display: block; margin: auto; max-height: 600px;">
 
