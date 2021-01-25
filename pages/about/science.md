@@ -26,5 +26,5 @@ To bring in the relevant expertise needed for a transdisciplinary project like t
 
 Vigh, J.L., D.J. Smith, B.R. Ellingwood, J. Lin, D.O. Prevatt, D. Roueche, B.G. Brown, D.T. Hahn, J.M. Collins, J.M. Done, G. Wong-Parodi, P.A. Kucera, C. Wang, J.J. Alland, T. Kloetzke, C.M. Rozoff, E.A. Hendricks, A.A. Merdjanoff, C. Arthur, M. Ge, Y. Peter Sheng, K. Emanuel, S.J. Weaver, J. Rovins, P. Mozumder, S. Joslyn, A. Bol, and T. Ross-Lazarov, 2020: The Hurricane Risk Calculator: Working toward Enhancing Our Nation's Readiness, Responsiveness, and Resilience to Hurricanes through Probabilistic Risk Frameworks for Evacuation Decision Support. Extended Abstract [pdf file](https://ral.ucar.edu/staff/jvigh/documents/vighEA2020_extended_abstract.pdf), Eighth Symposium on Building a Weather-Ready Nation: Enhancing Our Nation's Readiness, Responsiveness, and Resilience to High Impact Weather Events, Session 5 Hurricane Studies and Other Tropical Programmatic Achievements, Boston, MA, Amer. Meteor. Soc., Paper 5.5. [Recorded presentation given 15 January 2020](https://ams.confex.com/ams/2020Annual/recordingredirect.cgi/oid/Recording516716/paper370408_1.mp4) [pdf of presentation](https://ral.ucar.edu/staff/jvigh/documents/20200115_vigh_AMS100_hurricane_risk_calculator_presentation.pdf)
 
-
+[Next: Our Team](team.html)
 
