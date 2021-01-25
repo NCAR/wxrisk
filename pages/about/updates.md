@@ -19,7 +19,7 @@ To our knowledge, this is the first-of-its kind capability for any web site.
 
 ### 15 December 2020 ###
 
-We have finished work to integrate ReselientResidence (ResRe)'s structural vulnerability into the web app. Once a user has signed up, they can now go to the home page, click the ResRe image, and be sent to ResRe's questionnaire. ResRe uses this information to calculate the user's cyclone resilience score and then sends this back to the web app where it is stored in a database. This key development opens the door to providing personalized risk outputs to users in the near future. 
+We have finished work to integrate ReselientResidence (ResRe)'s structural vulnerability information into the web app. Once a user has signed up, they can now go to the home page, click the ResRe image, and be sent to ResRe's questionnaire. ResRe uses this information to calculate the user's cyclone resilience score and then sends this back to the web app where it is stored in a database. This key development opens the door to providing personalized risk outputs to users in the near future. 
 
 <img src="../../images/updates/ResRe_welcome.PNG" alt="Welcome page that a user will see when the web app sends them to the ResRe site. " style="display: block; margin: auto; max-height: 600px;">
 
