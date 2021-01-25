@@ -17,9 +17,10 @@ When a user first registers with the web app, the tool directs them to our partn
 
 To bring in the relevant expertise needed for a transdisciplinary project like this, a “Researcher Collective” was established in 2019, comprised of 39 experts spanning the disciplines of meteorology, numerical and geophysical modeling, verification, structural engineering, cloud computing, user design and user experience, social science, utility modeling, storm surge modeling, cognitive psychology, emergency management, and human vulnerability.
 
-### Journal articles about this project ###
+### Journal articles related to this project ###
 
-* Lin, J., K. Emanuel, and J. L. Vigh, 2020: "Forecasts of Hurricanes Using Large-Ensemble Outputs". Weather and Forecasting, 35 (5), 1713-1731, [https://doi.org/10.1175/WAF-D-19-0255.1](https://doi.org/10.1175/WAF-D-19-0255.1).
+* Wind hazard model component
+   * Lin, J., K. Emanuel, and J. L. Vigh, 2020: "Forecasts of Hurricanes Using Large-Ensemble Outputs". Weather and Forecasting, 35 (5), 1713-1731, [https://doi.org/10.1175/WAF-D-19-0255.1](https://doi.org/10.1175/WAF-D-19-0255.1).
 
 
 ### Conference and workshop abstracts about this project ###
