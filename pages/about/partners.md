@@ -36,3 +36,5 @@ A large number of universities are represented by their experts who are particip
 | Monash University (Australia) | <img src="../../logos/Monash_logo.png" alt="Logo of Monash University" style="display: block; margin: auto; max-height: 150px; padding: 20px;"> |
 | University of Queensland (Australia) | |
 
+[Next: Project Schedule](schedule.html)
+
