@@ -15,5 +15,5 @@ title: About the Project
 
 ### [Project Schedule](schedule.html)
 
-### [Development Updates](development.html)
+### [Project Updates](updates.html)
 
