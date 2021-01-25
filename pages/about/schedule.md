@@ -10,3 +10,5 @@ title: Schedule
 ## Project Roadmap
 
 <img src="../../images/20200625_project_roadmap_v1.PNG" alt="Graphic showing the development roadmap for the Hurricane Risk Calculator project." style="display: block; margin: auto;">
+
+[Next: Project Updates](updates.html)
