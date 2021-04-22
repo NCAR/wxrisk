@@ -26,11 +26,11 @@ title: Our Team
 
 #### Alan Bol
 
-### Geeta Nain
+#### Jonathan Lin
+
+#### Geeta Nain
 
 #### Gabrielle Wong-Parodi
-
-#### Jonathan Lin
 
 #### Alexis Merdjanoff
 
@@ -78,8 +78,8 @@ title: Our Team
 
 #### Craig Arthur
 
-[Next: Our Partners](partners.html)
-
 #### Ming Ge 
+
+[Next: Our Partners](partners.html)
 
 
