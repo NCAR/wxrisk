@@ -15,7 +15,7 @@
       - title: Project Schedule
         url: /pages/about/schedule.html
       - title: Project Updates
-        ufl: /pages/about/updates.html
+        url: /pages/about/updates.html
   - title: How to Get Involved
     url: /pages/involvement/index.html
     submenu: 
