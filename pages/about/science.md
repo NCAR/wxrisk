@@ -20,7 +20,7 @@ To bring in the relevant expertise needed for a transdisciplinary project like t
 ### Journal articles related to this project ###
 
 * Wind hazard model component
-   * Lin, J., K. Emanuel, and J. L. Vigh, 2020: "Forecasts of Hurricanes Using Large-Ensemble Outputs". Weather and Forecasting, 35 (5), 1713-1731, [https://doi.org/10.1175/WAF-D-19-0255.1](https://doi.org/10.1175/WAF-D-19-0255.1).
+   * Lin, J., K. Emanuel, and J. L. Vigh, 2020: Forecasts of Hurricanes Using Large-Ensemble Outputs. Weather and Forecasting, 35 (5), 1713-1731, [https://doi.org/10.1175/WAF-D-19-0255.1](https://doi.org/10.1175/WAF-D-19-0255.1).
 
 
 ### Conference and workshop abstracts about this project ###
