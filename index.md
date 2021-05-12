@@ -8,7 +8,7 @@ banner-button-text: Watch a video about the project
 banner-button-url: http://hurricanes.ral.ucar.edu/riskcalculator/videos/HRC_5.mp4
 ---
 
-<img src="/images/risk_of_damage_extreme.png" alt="Image of output from the Hurricane Risk Calculator simulated as being displayed on a mobile phone screen. This image shows the Risk of Damage for the Extreme risk level. " style="display: block; margin: auto;">
+<img src="/images/simulated_phone_view_risk_of_damage_extreme.PNG" alt="Image of output from the Hurricane Risk Calculator simulated as being displayed on a mobile phone screen. This image shows the Risk of Damage for the Extreme risk level. " style="display: block; margin: auto;">
 
 <!-- This project has built a cloud-based data and content delivery infrastructure to support a wide range of mobile apps built around the new probabilistic risk framework of the HurricaneRiskCalculator&reg;. -->
 
