@@ -2,7 +2,7 @@
 layout: frontpage
 title: The Hurricane Risk Calculator&reg;
 banner-title: The Hurricane Risk Calculator&reg;
-banner-description: Localizing and personalizing hurricane wind risks to inform decisions about hurricane preparations. The HurricaneRiskCalculator&reg; web app will be pilot testing in the U.S. and Australia in 2021. To learn how to take part in this pilot, click 'Get Involved' in the menu above.  
+banner-description: Localizing and personalizing hurricane wind risks to inform decisions about hurricane preparations. The HurricaneRiskCalculator&reg; web app will be pilot testing in the U.S. and Australia in 2021.   
 
 banner-button-text: Watch a video about the project
 banner-button-url: http://hurricanes.ral.ucar.edu/riskcalculator/videos/HRC_5.mp4
