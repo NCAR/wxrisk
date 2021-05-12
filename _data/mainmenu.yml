@@ -4,8 +4,6 @@
     submenu: 
       - title: The Need
         url: /pages/about/need.html
-      - title: A Hurricane Scenario
-        url: /pages/about/scenario.html
       - title: Our Science
         url: /pages/about/science.html
       - title: Our Team
