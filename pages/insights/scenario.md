@@ -4,7 +4,8 @@ title: A Hurricane Scenario
 ---
 
 ## A Hurricane Scenario ##
-by Jonathan Vigh
+Posted: Jan 2021
+Author: Jonathan Vigh
 
 The following scenario is provided as a thought exercise about what type of information people need to make critical decisions during a hurricane landfall event. 
 This scenario is one that many coastal residents are quite familiar with. 
