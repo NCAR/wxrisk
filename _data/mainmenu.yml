@@ -25,12 +25,12 @@
         url: /pages/involvement/collective.html
       - title: Become a Commercial Partner
         url: /pages/involvement/commercial.html
-- title: Insights from Our Experts
+  - title: Insights from Our Experts
     url: /pages/insights/index.html
     submenu: 
       - title: A Hurricane Scenario
         url: /pages/insights/scenario.html
-- title: Related Resources
+  - title: Related Resources
     url: /pages/related/index.html
     submenu: 
       - title: Tropical Cyclone Guidance Project
