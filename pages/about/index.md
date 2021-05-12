@@ -5,8 +5,6 @@ title: About the Project
 
 ### [The Need](need.html)
 
-### [A Hurricane Scenario](scenarios.html)
-
 ### [Our Science](science.html)
 
 ### [Our Team](team.html)
