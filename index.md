@@ -2,7 +2,7 @@
 layout: frontpage
 title: The Hurricane Risk Calculator&reg;
 banner-title: The Hurricane Risk Calculator&reg;
-banner-description: The goal of the HurricaneRiskCalculator&reg; web app is to provide a localized and personalized assessment of the risks posed by hurricane winds and then to translate this into a form that people can use to make informed decisions about their hurricane preparations. The HurricaneRiskCalculator&reg; web app will be pilot testing in the U.S. and Australia in 2021. To be notified when the web app is available, please [sign-up for updates](signup.html). 
+banner-description: The goal of the HurricaneRiskCalculator&reg; web app is to provide a localized and personalized assessment of the risks posed by hurricane winds and then to translate this into a form that people can use to make informed decisions about their hurricane preparations. The HurricaneRiskCalculator&reg; web app will be pilot testing in the U.S. and Australia in 2021. To find out how to take part in this pilot, click 'Get Involved' in the menu above.  
 
 banner-button-text: Watch a video about the project
 banner-button-url: http://hurricanes.ral.ucar.edu/riskcalculator/videos/HRC_5.mp4
