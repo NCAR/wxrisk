@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: The Hurricane Risk Calculator&reg;
-banner-title: The Hurricane Risk Calculator&reg;
+banner-title: The Hurricane Risk Calculator&reg; web app
 banner-description: Localizing and personalizing hurricane wind risks to inform decisions about hurricane preparations. Pilot testing in the U.S. and Australia in 2021.   
 
 banner-button-text: Watch a video about the project
