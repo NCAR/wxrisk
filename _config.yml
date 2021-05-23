@@ -16,16 +16,15 @@
 title: Hurricane Risk Calculator
 email: riskcalculator@ucar.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is the project website for the HurricaneRiskCalulator, a research project which
+  aims to localize and personalize hurricane risk. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jvigh
 
 # Build settings
 markdown: kramdown
-remote_theme: ncar/koru-jekyll@1.0.35
+remote_theme: ncar/koru-jekyll@1.0.40
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
