@@ -5,6 +5,7 @@ title: Our Team
 
 ## Our Team
 
+The HurricaneRiskCalculator project team is organized as a Researcher Collective. As of 23 May 2021, the collective includes 40 researchers, practioners, and people helping in a technical capacity. 
 
 ### Project Lead and Principal Investigator
 
